@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Botão de Desligar
+Name[pt_BR]=Botão de Desligar
+Comment[pt_BR]=Botão de Desligar
+GenericName[pt_BR]=Botão
+Exec=shutdown.py
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+#Icon="Altere para um icone de sua escolha"
+StartupNotify=true
